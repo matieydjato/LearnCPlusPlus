@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables", "Variables\Vari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataTypes", "DataTypes\DataTypes.vcxproj", "{878EA128-274F-4E4E-A88F-BF7E3CDBF45C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WokingWithStrings", "WokingWithStrings\WokingWithStrings.vcxproj", "{17523D71-2D42-4B1E-85EF-AE333A7BC3D6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorkingWithStrings", "WokingWithStrings\WokingWithStrings.vcxproj", "{17523D71-2D42-4B1E-85EF-AE333A7BC3D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorkingWithNumbers", "WorkingWithNumbers\WorkingWithNumbers.vcxproj", "{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{17523D71-2D42-4B1E-85EF-AE333A7BC3D6}.Release|x64.Build.0 = Release|x64
 		{17523D71-2D42-4B1E-85EF-AE333A7BC3D6}.Release|x86.ActiveCfg = Release|Win32
 		{17523D71-2D42-4B1E-85EF-AE333A7BC3D6}.Release|x86.Build.0 = Release|Win32
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Debug|x64.ActiveCfg = Debug|x64
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Debug|x64.Build.0 = Debug|x64
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Debug|x86.Build.0 = Debug|Win32
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Release|x64.ActiveCfg = Release|x64
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Release|x64.Build.0 = Release|x64
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Release|x86.ActiveCfg = Release|Win32
+		{9CE4E4BB-9548-4115-9E61-88CF631B0BAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
